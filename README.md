@@ -1,4 +1,4 @@
-#####Coursera
-###HTML, CSS, JavaScript for Web Developers
+#Coursera
+##HTML, CSS, JavaScript for Web Developers
 ##Johns Hopkins University
 
